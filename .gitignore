@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# virtual environments
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
