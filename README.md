@@ -1,2 +1,8 @@
 # Homework1
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This is our first Homework for the Lecture Open Source Modelling at the TU Wien
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
