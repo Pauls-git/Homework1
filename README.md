@@ -17,5 +17,3 @@ including testing, linting and working with github.
 
 ## AI Disclaimer
 AI was used to support the development of this project, particularly in selecting an appropriate example code (due to the lack of creativity) and understanding how to set up the linter (ruff) and tests (pytest). It was mainly used as a learning aid to better understand best practices for structuring a small open-source Python project.
-
-Test
